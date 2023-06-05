@@ -1,4 +1,5 @@
 # ExamAlteration
+0. Make that working in laptop (Base Code)
 Website for faculties to exchange their slot
 Features to be added in task1 :
 1.1 Requester Exam Slot should go into Pendings tab

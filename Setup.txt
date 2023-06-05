@@ -1,0 +1,9 @@
+In Server :
+npm init -y
+npm install bcrypt cookie-parser cors crypto csv-parser express fast-csv sf jsonwebtoken mail multer mysql2 nodemailer nodemon path
+
+
+In Client:
+outside 
+npx create-react-app Client
+npm install axios bootstarp bootstarp-icons react-scripts web-vitals @fullcalendar/daygrid @fullcalendar/react @testing-library/jest-dom @testing-library/react @testing-library/user-event   
